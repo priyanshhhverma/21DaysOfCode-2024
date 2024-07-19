@@ -1,49 +1,20 @@
-# Questions for Day 8 – (28/06/2024)
+# Questions for Day 21 (Quiz-3) – (08/10/2024)
 ## DSA:
-**Question 1:** You have three stacks of cylinders with varying heights. Remove cylinders from the top of the stacks so that all stacks are of the same height, and return this maximum possible height.
-
-##### Inputs:
-- Three arrays of integers representing the heights of cylinders in each stack.
-##### Output:
-•	The maximum possible height where all stacks are equal.
-##### Example:
-stack1 = [3, 2, 1, 1, 1]
-
-stack2 = [4, 3, 2]
-
-stack3 = [1, 1, 4, 1]
-
-##### Output: 5
-
-**Question 2:** Implement a stack using two queues. The stack should support standard operations like push, pop, and top.
-##### Inputs/Outputs:
-- Methods for stack operations.
-  
-Example:
-
-stack.push(1)
-
-stack.push(2)
-
-stack.top()  # Output: 2
-
-stack.pop()  # Output: 2
-
-stack.top()  # Output: 1
-
-
-
-
-
-
-
+Go-To: https://www.hackerrank.com/21-days-of-code-2024-quiz-4
 ## WEB-DEV:
+Q1. You are a developer who has been given a task to promote the tourism of Italy by the government itself, make a tourism website where people can come and know about Italy. You have to make a website as beautiful and appealing that you can make with constrains, these constraints are: -
+1.	You have to only use beach.jpg and Italy.jpg (they are the only pictures that you can use) given in the repo  
+2.	Visit us page should redirect you to www.upesacmw.org
 
+Q2. 
+ 
+ ![image](https://github.com/upesacm/21DaysOfCode-2024/assets/133881515/3018cb59-9212-4e1d-b4b4-6762eb150bd3)
 
-Note: do these exercises in the Console (right-click > Inspect > Console)
-           Use a script tag to link an html file with JS.
-1.	Use alert(...); to display your name in a popup.
-2.	Using math, calculate 10 + 5 - 2 in the Console.
-3.	Use document.body.innerHTML = ...; to display your name on the web page.
-4.	At a restaurant, you order 1 soup for $10, 3 burgers for $8 each, and 1 ice cream for $5. Use JavaScript to calculate the cost of the order.
-5.	At a restaurant, you order 1 coffee ($5), 2 bagels ($3 each), and 1 soup ($9). Calculate the cost and save it in a variable called 'cost'.
+Make a Script with basic HTML which when clicked shows the sum of the buttons pressed.
+(Here we pressed a 5 and a 4 to show sum as 9). When we press reset, it should show 0 as the result.
+
+Q3. Replicate this image.
+
+ ![image](https://github.com/upesacm/21DaysOfCode-2024/assets/133881515/a8523425-da9f-44df-8010-e4f4941bca09)
+
+(Logo is given in the rescources folder.)
